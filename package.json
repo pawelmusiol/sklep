@@ -7,10 +7,15 @@
     "start": "next start"
   },
   "dependencies": {
-    "mongoose": "^5.9.13",
+    "axios": "^0.21.1",
+    "formidable": "^1.2.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
     "next": "latest",
     "react": "^16.13.1",
+    "react-cookie": "^4.0.3",
     "react-dom": "^16.13.1",
+    "sass": "^1.32.13",
     "swr": "0.2.2"
   },
   "license": "MIT"
